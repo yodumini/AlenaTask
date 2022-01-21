@@ -1,4 +1,4 @@
-## 作業三：Laravel 建立與 Infyom 套件使用
+## 作業三：Laravel + Infyom 創 user API + CRUD
 
 ### 環境建置
 Macbook 環境使用 XAMPP-VM
